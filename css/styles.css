@@ -13,3 +13,8 @@
 .purple-column {
   background-color: #faf5ff
 }
+
+#penny {
+  float: left;
+  margin: 6px;
+}
