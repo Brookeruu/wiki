@@ -1,3 +1,11 @@
-ul {
+.col-md-2 {
   float: right;
+}
+
+.green-column {
+  background-color: #f5fffa
+}
+
+.blue-column {
+  background-color: #f5faff
 }
